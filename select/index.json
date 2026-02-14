@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "終わりを迎えた後のこと",
+  "base_artist": "goodtimes",
+  "createdAt": "2026-02-14T02:02:35.428083Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "終わりを迎えた後のこと",
+      "artist": "goodtimes",
+      "has_synced": false,
+      "path": "select/pl_01_終わりを迎えた後のこと_goodtimes.txt"
+    }
+  ]
+}
